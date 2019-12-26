@@ -5,7 +5,7 @@ A template for writing documentation in latex with example pdf file
 sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
 ```
 ## Contents of the .tex file
-[Raw file here]()
+[Raw file here](https://raw.githubusercontent.com/BeanGreen247/Latex-Documantation-Template/master/documentation-template.tex)
 ```
 % Setting the type of document
 \documentclass[12pt,a4paper]{report}
@@ -107,4 +107,4 @@ cd #command for changing directories
 ```
 latexmk -pdf documentation-template.tex -f
 ```
-[The created pdf file]()
+[The created pdf file](https://github.com/BeanGreen247/Latex-Documantation-Template/blob/master/documentation-template.pdf)
