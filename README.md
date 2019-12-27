@@ -8,7 +8,7 @@ sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-
 [Raw file here](https://raw.githubusercontent.com/BeanGreen247/Latex-Documantation-Template/master/documentation-template.tex)
 ```
 % Setting the type of document
-\documentclass[12pt,a4paper]{report}
+\documentclass[12pt,a4paper]{article}
 
 % Packages used to enable graphics and codeblocks
 \usepackage{graphicx}
